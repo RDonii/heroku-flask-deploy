@@ -9,4 +9,4 @@ def index():
 
 
 if __name__ == '__main__':
-  app.run(debug=True, use_reloader=True)
+  app.run(host='https://flask-heroku-deploy-10-01.herokuapp.com', port=80, debug=True, use_reloader=True)
