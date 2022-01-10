@@ -1,3 +1,3 @@
 # heroku-flask-deploy
 
-## Qandau qilib Herokuga deploy qilish mumkin?
+## Qanday qilib Herokuga deploy qilish mumkin?
